@@ -1,0 +1,5 @@
+ffmpeg-python==0.2.0
+boto3==1.26.50
+spleeter==2.3.2
+lambda-warmer-py==0.6.0
+tensorflow-cpu==2.11.0
